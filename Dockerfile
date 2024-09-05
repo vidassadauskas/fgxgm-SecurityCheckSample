@@ -1,4 +1,4 @@
-FROM node:18.20.3-slim
+FROM node:hydrogen-bookworm-slim
 
 RUN npm install -g npm@9.1.3
 
